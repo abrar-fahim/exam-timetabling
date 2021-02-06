@@ -1,0 +1,163 @@
+/Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=50616:/Applications/IntelliJ IDEA.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/nafisabrar/Documents/uni/3-2/AI/offline3/out/production/offline3 Main
+CAR91
+degree
+Timeslots: 34
+Penalty: 7.244549483013294
+CAR92
+degree
+Timeslots: 32
+Penalty: 5.589771431673815
+KFU93
+degree
+Timeslots: 19
+Penalty: 20.501215180407552
+TRE92
+degree
+Timeslots: 22
+Penalty: 10.659174311926606
+YOR83
+degree
+Timeslots: 21
+Penalty: 42.01912858660999
+CAR91
+weighted-degree
+Timeslots: 35
+Penalty: 6.8971935007385525
+CAR92
+weighted-degree
+Timeslots: 32
+Penalty: 5.6244095770671585
+KFU93
+weighted-degree
+Timeslots: 20
+Penalty: 19.727051785380446
+TRE92
+weighted-degree
+Timeslots: 22
+Penalty: 10.574770642201836
+YOR83
+weighted-degree
+Timeslots: 22
+Penalty: 39.148777895855474
+CAR91
+enrollment
+Timeslots: 34
+Penalty: 7.076868537666174
+CAR92
+enrollment
+Timeslots: 33
+Penalty: 5.649655247298985
+KFU93
+enrollment
+Timeslots: 21
+Penalty: 17.04468124883156
+TRE92
+enrollment
+Timeslots: 22
+Penalty: 10.738761467889908
+YOR83
+enrollment
+Timeslots: 22
+Penalty: 39.53241232731137
+CAR91
+dSatur
+Timeslots: 31
+Penalty: 7.828301329394387
+CAR92
+dSatur
+Timeslots: 30
+Penalty: 6.296107280525544
+KFU93
+dSatur
+Timeslots: 19
+Penalty: 21.762198541783512
+TRE92
+dSatur
+Timeslots: 23
+Penalty: 10.046330275229359
+YOR83
+dSatur
+Timeslots: 20
+Penalty: 45.83634431455898
+CAR91
+degree
+Timeslots: 35
+Penalty: 7.006971935007385
+CAR92
+degree
+Timeslots: 32
+Penalty: 5.612085346652913
+KFU93
+degree
+Timeslots: 20
+Penalty: 20.25387922976257
+TRE92
+degree
+Timeslots: 22
+Penalty: 10.767889908256882
+YOR83
+degree
+Timeslots: 23
+Penalty: 35.54835281615303
+CAR91
+weighted-degree
+Timeslots: 36
+Penalty: 6.481713441654358
+CAR92
+weighted-degree
+Timeslots: 34
+Penalty: 5.333894348227374
+KFU93
+weighted-degree
+Timeslots: 21
+Penalty: 18.25986165638437
+TRE92
+weighted-degree
+Timeslots: 22
+Penalty: 10.256651376146788
+YOR83
+weighted-degree
+Timeslots: 24
+Penalty: 34.81934112646121
+CAR91
+enrollment
+Timeslots: 36
+Penalty: 6.542156573116691
+CAR92
+enrollment
+Timeslots: 35
+Penalty: 5.366415114827081
+KFU93
+enrollment
+Timeslots: 21
+Penalty: 19.79154982239671
+TRE92
+enrollment
+Timeslots: 22
+Penalty: 10.262385321100917
+YOR83
+enrollment
+Timeslots: 24
+Penalty: 34.13602550478215
+CAR91
+dSatur
+Timeslots: 31
+Penalty: 8.057429837518464
+CAR92
+dSatur
+Timeslots: 30
+Penalty: 6.068461914327597
+KFU93
+dSatur
+Timeslots: 19
+Penalty: 19.71733034212002
+TRE92
+dSatur
+Timeslots: 23
+Penalty: 10.084174311926606
+YOR83
+dSatur
+Timeslots: 20
+Penalty: 45.59298618490967
+
+Process finished with exit code 0
